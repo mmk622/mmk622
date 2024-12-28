@@ -2,11 +2,6 @@
 
 아직 모르는 것이 많은 컴퓨터공학과 3학년 학생입니다!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmk622&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmk622&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ## 💻 Project
 
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
@@ -62,6 +57,11 @@
   <a href="mailto:ansalsrb123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmk622&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmk622&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/mmk622/mmk622/output/snake.svg" alt="Snake animation"/>
