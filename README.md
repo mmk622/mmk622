@@ -11,7 +11,7 @@
 
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |------|------------|------|------|------|
-| <p align="center"> 2024.12.19~ </p> | <p align="center"> Motimate </p> | 학습 관리 및 동기부여 서비스 | <p align="center"> 프론트엔드<br/>백엔드 | <p align="center"> 팀 프로젝트<br/></p> |
+| <p align="center"> 2024.12.19~ </p> | <p align="center"> Motimate </p> | 학습 관리 및 동기부여 서비스 | <p align="center"> 백엔드 | <p align="center"> 팀 프로젝트<br/></p> |
 | <p align="center"> 2024.10.11~2024.12.06 </p> | <p align="center"> 석가모니(석장 가서 모 해먹니?) : BUDDA </p> | 자취생을 위한 요리 레시피 공유 웹 | <p align="center"> 프론트엔드<br/>백엔드 </p> | <p align="center"> 팀 프로젝트 </p> |
 
 ## 🧑‍💻 Tech Stack
