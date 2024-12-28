@@ -1,11 +1,20 @@
 # Hi👋! My name is door_pushed_gyu
 
+아직 모르는 것이 많은 컴퓨터공학과 3학년 학생입니다!
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmk622&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmk622&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## Tech Stack
+## 💻 Project
+
+| 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
+|------|------------|------|------|------|
+| <p align="center"> 2024.12.19~ </p> | <p align="center"> Motimate </p> | 학습 관리 및 동기부여 서비스 | <p align="center"> 프론트엔드<br/>백엔드 | <p align="center"> 팀 프로젝트<br/></p> |
+| <p align="center"> 2024.10.11~2024.12.06 </p> | <p align="center"> 석가모니(석장 가서 모 해먹니?) : BUDDA </p> | 자취생을 위한 요리 레시피 공유 웹 | <p align="center"> 프론트엔드<br/>백엔드 </p> | <p align="center"> 팀 프로젝트 </p> |
+
+## 🧑‍💻 Tech Stack
 
 ### Front-End
 
@@ -55,4 +64,4 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/mmk622/mmk622/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mmk622/mmk622/output/snake.svg" alt="Snake animation"/>
