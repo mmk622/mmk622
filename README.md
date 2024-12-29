@@ -48,6 +48,9 @@
 ### Contacts
 
 <div align="left">
+  <a href="https://velog.io/@mmk622/posts" target="_blank">
+    <img src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white&style=for-the-badge"/>
+  </a>
   <a href="https://www.instagram.com/door_pushed_gyu/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
