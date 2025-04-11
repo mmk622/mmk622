@@ -1,6 +1,6 @@
 # Hi👋! My name is door_pushed_gyu
 
-아직 모르는 것이 많은 컴퓨터공학과 3학년 학생입니다!
+아직 모르는 것이 많은 컴퓨터공학과 4학년 학생입니다!
 
 ## 💻 Project
 
@@ -8,6 +8,8 @@
 |------|------------|------|------|------|
 | <p align="center"> 2024.12.19~ </p> | <p align="center"> Motimate </p> | 학습 관리 및 동기부여 서비스 | <p align="center"> 백엔드 | <p align="center"> 팀 프로젝트<br/></p> |
 | <p align="center"> 2024.10.11~2024.12.06 </p> | <p align="center"> 석가모니(석장 가서 모 해먹니?) : BUDDA </p> | 자취생을 위한 요리 레시피 공유 웹 | <p align="center"> 프론트엔드<br/>백엔드 </p> | <p align="center"> 팀 프로젝트 </p> |
+| <p aligh="center"> 2025.03.11~2025.04.07 </p> | <p aligh="center"> mys | TodoList 웹 서비스 | <p align="center"> 프론트엔드 | <p align="center"> 팀 프로젝트<br/></p> |
+| <p aligh="center"> 2025.04.08~2025.05.06 </p> | <p aligh="center"> 영화 검색 | tmdb를 활용한 영화 검색 웹 서비스 | <p align="center"> 프론트엔드 | <p align="center"> 팀 프로젝트<br/></p> |
 
 ## 🧑‍💻 Tech Stack
 
